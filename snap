@@ -1,9 +1,12 @@
 
 1: hello this is line 1
 
+<<<<<<< HEAD
 2:hello this is line 2
 
 3: hello this is line 3
 
 4: hello this is line 4
 
+=======
+>>>>>>> parent of f2eba57 (line 2 added)
