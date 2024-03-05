@@ -6,7 +6,10 @@
 
 3: hello this is line 3
 
+<<<<<<< HEAD
 4: hello this is line 4
 
 =======
 >>>>>>> parent of f2eba57 (line 2 added)
+=======
+>>>>>>> parent of a751549 (line 4 aqdded)
